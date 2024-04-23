@@ -1,5 +1,7 @@
+import Greeting from "./components/Greeting";
+
 function App() {
-  return <></>;
+  return <Greeting name="FirstName" />;
 }
 
 export default App;
